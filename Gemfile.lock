@@ -49,6 +49,8 @@ GEM
     mail (2.5.5)
       mime-types (~> 1.16)
       treetop (~> 1.4.8)
+    marionette-rails (2.4.4)
+      railties (>= 3.1)
     mime-types (1.25.1)
     multi_json (1.12.1)
     pg (0.21.0)
@@ -103,6 +105,7 @@ PLATFORMS
 DEPENDENCIES
   coffee-rails (~> 3.2.1)
   jquery-rails
+  marionette-rails
   pg
   rails (= 3.2.21)
   sass-rails (~> 3.2.3)
